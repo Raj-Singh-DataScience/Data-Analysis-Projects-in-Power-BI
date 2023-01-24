@@ -30,8 +30,25 @@ Our case study is based on a chocolate manufacturing company which is facing cha
 
 - Also, we have done “Trend analysis and Forecasting”.
 
+## Screenshots of relationship between tables (Model Relationship) in Power BI.
+
+![Model Relationship](https://user-images.githubusercontent.com/122977758/214394856-ff36ea08-296a-45af-80c3-fe65aafea498.png)
+
+## Screenshots during Data Cleaning in Power BI:
+
+![data cleaning 1](https://user-images.githubusercontent.com/122977758/214391744-50250970-84fc-4e63-8e1c-ae0d689973a1.png)
 
 
+![data cleaning 2](https://user-images.githubusercontent.com/122977758/214393317-4a742f6b-0ac7-4d3f-b616-63678e99875e.png)
 
+## Screenshots of DASHBOARD for Sales Insight (i.e. Sales Performance Report) in Power BI:
+
+![Sales Performance Report - Dashboard 1](https://user-images.githubusercontent.com/122977758/214395782-62f78643-e3af-431c-b586-722af455596d.png)
+
+![Sales Performance Report - Dashboard 2](https://user-images.githubusercontent.com/122977758/214395839-1d0a5e30-4059-401a-9c3d-d1e93f4b9a17.png)
+
+## Screenshots of Trend analysis and Forecasting in Power BI:
+
+![Trend analysis and Forecasting](https://user-images.githubusercontent.com/122977758/214396400-67b45cb7-f1e1-47dc-8664-2419aa1b20e9.png)
 
 
