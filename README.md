@@ -6,6 +6,7 @@ Project shows sales performance report, trend analysis and forecasting for a cho
 
 ## Problem Statement:
 Our case study is based on a chocolate manufacturing company which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and They would like to build power BI dashboard that can give them better sales insights so they could take decision to enhance their business (product sales) one step ahead.
+
 ## Project Planning and Roadmap:
 
 - Purpose - To unlock sales insights those are not visible before for sales team for decision support.
