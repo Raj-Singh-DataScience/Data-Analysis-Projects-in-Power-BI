@@ -31,7 +31,7 @@ Our case study is based on a chocolate manufacturing company which is facing cha
 
 - Also, we have done “Trend analysis and Forecasting”.
 
-## Screenshots of relationship between tables (Model Relationship) in Power BI.
+## Screenshots of relationship between tables (Model Relationship) in Power BI:
 
 ![Model Relationship](https://user-images.githubusercontent.com/122977758/214394856-ff36ea08-296a-45af-80c3-fe65aafea498.png)
 
